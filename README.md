@@ -1,6 +1,6 @@
 # calbmi
 
-This my first app using flutter
+This my first app using flutter\n
 This app is used to calculate body mass index
 
 ## Getting Started
